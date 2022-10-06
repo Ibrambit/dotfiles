@@ -1,0 +1,7 @@
+#! /bin/bash
+
+cd /Volumes/Sata/ibrambit/cs/web\ dev/proj/angularBootcamp/
+mkdir $1
+cd /Volumes/Sata/ibrambit/cs/web\ dev/proj/angularBootcamp/$1
+code .
+
